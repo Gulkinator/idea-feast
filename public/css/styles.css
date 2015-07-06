@@ -1,23 +1,18 @@
 .page-header {
-    background-color: #ff0e46;
+    background-color:black;
     margin-top: 0;
     padding: 3rem 0 ;
+	text-decoration: clear;
+	
 }
+
 .text-white {
     color: white;
+	font-size: 10rem;
 }
-h1 {
-    font-size: 7rem;
-    font-weight: 100;
-    letter-spacing: 1px;
-}
-header h2 {
-    color: #f4b4c0;
-}
-header h2 {
-    font-size: 3rem;
-    font-weight: 400;
-}
-header h3 {
-    font-size: 2rem;
+
+.fa-lightbulb-o:before {
+  content: "\f0eb";
+  color:#ffffff;
+  
 }
